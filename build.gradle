@@ -83,7 +83,7 @@ uploadArchives {
                 url 'https://github.com/SpruceHillio/spring-cors-filter'
 
                 scm {
-                    connection 'scm:git:git://github.com/SpruceHillio/spring-cors-filter.git'
+                    connection 'scm:git:https://github.com/SpruceHillio/spring-cors-filter.git'
                     developerConnection 'scm:git:git://github.com/SpruceHillio/spring-cors-filter.git'
                     url 'https://github.com/SpruceHillio/spring-cors-filter.git'
                 }
