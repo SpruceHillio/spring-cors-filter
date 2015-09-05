@@ -11,7 +11,7 @@ import java.lang.annotation.Target;
 /**
  * A specific @Conditional implementation that will match based upon property configuration
  *
- * @author Michael Duergner <michael@sprucehill.io>
+ * @author Michael Duergner
  */
 @Target({ ElementType.TYPE, ElementType.METHOD })
 @Retention(RetentionPolicy.RUNTIME)

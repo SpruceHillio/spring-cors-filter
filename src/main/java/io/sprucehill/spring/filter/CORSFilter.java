@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
 /**
  * A OncePerRequestFilter implementation that will add CORS relevant header to any request defined by the configuration.
  *
- * @author Michael Duergner <michael@sprucehill.io>
+ * @author Michael Duergner
  */
 @Component
 @ConditionalOnProperty(value = "io.sprucehill.spring.filter.cors.enable",havingValue = "true")

@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * A custom Condition implementation for the @ConditionalOnProperty annotation
  *
- * @author Michael Duergner <michael@sprucehill.io>
+ * @author Michael Duergner
  */
 public class PropertyCondition implements Condition {
 
